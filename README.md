@@ -126,7 +126,7 @@ All our models use GRU and the last attention one uses VGG16 pretrained others u
 |CNN-RNN | 88.6 | 88.34 |
 |CNN-RNN with CNN fine tuning | 89.81 | 89.61 |
 |CNN-RNN Caption | 89.81 | 89.76 |
-|CNN-RNN Attention | 90.36 | 90.25 |
+|CNN-RNN Attention | **90.36** | **90.25** |
 |CNN-RNN with CNN pretraining | 90.10 | 89.51 |
 
 **Current Best in Kaggle Leaderboard 93.32**
